@@ -31,7 +31,67 @@ Es gibt soziale und organisatorische [Rollen][rollen], die das Dojo angehnehm ab
 
 ### Lehrplanbezug
 
-**TODO**: Lesen, verstehen, einarbeiten: Informatik aber viel mehr noch die Kompetenzen: Problemlösen, Teamgeist, Eigenverantwortung, Selbstermächtigung, Präsentation, 
+Kompetenzen, die die Schüler beim CoderDojo erwerben, können wir auch im [Lehrplan][lehrplan] wiederfinden.
+Ziel dieses Abschnitts ist es, einen Überblick über die verschiedenen Materialien zum 
+Kompetenzerwerb zu geben und einzuordnen.
+
+**Chancengleichheit und Differenzierung**  
+Beim CoderDojo arbeiten die Teilnehmer an eigenen Projekten in eigener Geschwindigkeit.
+Sie helfen einander. Personen, die gerade etwas gelernt haben sind die besten Lehrer (Peer Learning).
+Alle Teilnehmer wählen ihr Form selbst.
+Die Inhalte sind zumeist unabhängig von der Form.
+Ob Arduino, Lightbot, Minecraft-code.org oder ein Blue-Bot:
+grundlegendes algorithmisches Wissen erwerben die Teilnehmer mit all diesen, in der Form, die sie am meisten anspricht am liebsten, in ihrer Geschwindigkeit.
+Die Tutorials sind in vielen Sprachen vorhanden [[Material][material]].
+Es gibt Rechner vor Ort, wenn man keine dabei hat und die Ergebnisse können ins Internet geladen werden, um woanders weiter zu machen.
+
+**2.2 Mit Informationen umgehen - Information in Form von Daten darstellen und verarbeiten**  
+- Mit Information in Form von Daten umgehen  
+  - (G) Die Teilnehmer beschäftigen sich z.B. mit Scratch oder der freien Alternative Snap!, sowie anderen Programmiersprachen.
+    Dabei verwenden sie Zahlen, aber auch Zeichenketten, um mit dem Nutzer zu interagieren.
+  - (H) Bei Tutorials, wie CodeCombat, Waterloo werden die Datentypen verwendet und verschiedene Operatoren angewandt, um Pobleme zu lösen.
+- Informations-systeme nutzen
+  - (DE) Das ist eine Grundlage, um am CoderDojo teilzunehmen. Die Tutorials und die Übersichtsseite sowie die Suchmaschine werden verwendet.
+  - (G) Wenn die Teilnehmer nach Lösungen für Probleme und Herangehensweisen suchen, dann erkennen sie, ob das funktioniert, was sie Programmieren.
+    Dadurch lernen sie, welche Quellen für die Informationsbeschaffung geeignet sind.
+
+**2.3 Informatiksysteme verstehen - Wirkprinzipien kennen und anwenden**  
+- Technische Grundlagen erläutern und anwenden
+  - (GH) Teilnehmer, die mit Arduinos arbeiten, realisieren Schaltungen. Wir bieten auch Löten an, um bestehende Schaltungen zu realisieren.
+
+**2.4 Informatisches Modellieren - Modelle erstellen und bewerten**  
+- Informatische Modelle analysieren und bilden 
+  - (G) Durch die Programierung eigener Spielideen oder Schaltungen, setzen die Teilnehmer selbsterdachte Modelle um.
+  - (H) Die selbsterdachen Modelle werden vorgestellt, erweitert und sind Ideen anderer ausgesetzt, die bei mehreren Teilnahmen weiter verändert und angepasst werden.
+- Grundlegende Konzepte der objekt orientierten Modellierung anwenden 
+  - (G) Scratch/Snap: Die Objekte sind teils Klone.
+    Manche Spiele brauchen Klone, die einen eigenen Zustand haben.
+
+**2.5 Problemlösen - Probleme erfassen und mit Informatiksystemen lösen**  
+- Algorithmische Abläufe beschreiben
+  - (G) Fast alle Materialien sind mit Programierbezug. Die Einführungsrätsel bei code.org, Linkbot, Blue-Bot erwarten alle eine Folge von Anweisungen, die durch Schleifen bzw. Rekursion kompaktiert werden.
+  - (H) Beim [Helfen][guide] darf die Tastatur nicht angefasst werden.
+    Bei der [Paarprogrammierung][pair-programming] sprechen die Teinehmer.
+    Dadurch findet ein verbaler Austausch über den Algorithmus statt.
+- Abläufe mit - Algorithmen modellieren 
+  - (F) Diese Grundstrukturen werden mit den ersten Tutorials spielerich erlernt. 
+    Sie sind Grundlagen, die zur Verwirklichung der Ziele der Teilnehmer gebraucht werden.
+  - (G) Zusätzlich nutzen die Teilnehmer Variablen in eigenen Spielen und Programmen, um den
+    Zustand zu erfassen.
+- Programme entwerfen und realisieren 
+  - (F) Die Teilnehmer, so sie Programmieren, verwenden alle eine geeignete, vorinstallierte Umgebung auf den Rechnern.
+  - (G) Die Tutorials geben eine Problemstellung.
+    Diese muss gelöst werden, um in das nächste Level zu kommen.
+    Ein formalisiertes Aufschreiben der Algorithmen wird nur zur Kommunikation über das Problem eingesetzt.
+    Die Teilnehmer können verschiedene Sprachen/Tutorials machen, die darin unterstützen, die Abläufe sprachunabhängig zu erfassen.
+  - (H) Der Entwurf erfogt erfahrungsgemäß beschreibend: "Ich habe das und brauche das."
+    Dann erstellen die Teilnehmer ein Programm und beheben Fehler.
+
+**2.6 Kommunizieren und Kooperieren - Teamarbeit organisieren und koordinieren**
+- Fachsprache angemessen verwenden
+  - (DE) Untereinander und durch die Tutorials werden diese Begriffe eingeführt.
+  - (GH) Die Teilnehmer dürfen am Ende präsentieren, was sie getan haben.
+
 
 ### Genehmigung
 
@@ -60,4 +120,8 @@ Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 [vvlkfb-6]: http://bravors.brandenburg.de/verwaltungsvorschriften/vvlkfb#6
 [vvlkfb-7]: http://bravors.brandenburg.de/verwaltungsvorschriften/vvlkfb#7
 [rollen]: https://github.com/CoderDojoPotsdam/organize/blob/master/Rollen-beim-Dojo.md#readme
+[lehrplan]: http://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/rahmenlehrplaene/Rahmenlehrplanprojekt/amtliche_Fassung/Teil_C_Informatik_2015_11_10_WEB.pdf
+[material]: http://material.quelltext.eu/
+[guide]: http://opentechschool.github.io/slides/presentations/coaching/de.html
+[pair-programming]: https://www.youtube.com/watch?v=vgkahOzFH2Q
 
