@@ -38,7 +38,7 @@ Die eigenen Kinder können mitkommen.
 
 Ihr erhaltet am Ende des Fortbildungsangebots eine Bestätigung mit Thema, Kurzfassung und zeitlichem Rahmen [[VV-LKFB §7][vvlkfb-7]].
 Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, formulieren wir diese nach einem Gespräch zusammen.
-Ein CoderDojo geht ca. 3 Stunden, was der jewailigen Veranstaltung zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch noch mehreren Aufenthalten beim CoderDojo stattfinden.
+Ein CoderDojo geht ca. 3 Stunden, was der jewailigen Veranstaltung zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch nach/bei mehreren Aufenthalten beim CoderDojo stattfinden.
 
 **TODO**: Das CoderDojo ist entwerder ein Ersatzangebot oder ein Ergänzungsangebot.
 Darüber entscheidet das MBJS nach dem Antrag.
@@ -48,6 +48,7 @@ Darüber entscheidet das MBJS nach dem Antrag.
 Kompetenzen, die die Schüler beim CoderDojo erwerben, können wir auch im [Lehrplan][lehrplan] wiederfinden.
 Ziel dieses Abschnitts ist es, einen Überblick über die verschiedenen Materialien zum 
 Kompetenzerwerb zu geben und einzuordnen.
+Ziel ist es nicht, all diese Themen beim CoderDojo zu erfahren sondern sich einzelne interessante Themen herauszusuchen, selbst auszuprobieren und zu sehen, wie die Teilnehmer damit umgehen.
 
 **Chancengleichheit und Differenzierung**  
 Beim CoderDojo arbeiten die Teilnehmer an eigenen Projekten in eigener Geschwindigkeit.
