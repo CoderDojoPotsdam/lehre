@@ -27,7 +27,21 @@ Sie können sich gegenseitig helfen und wir unterstützen das.
 Damit das Dojo läuft, braucht es kein technisches Wissen von Erwachsenen.
 Es gibt soziale und organisatorische [Rollen][rollen], die das Dojo angehnehm ablaufen helfen.
 
-**TODO**: Bezug zu aktueller Forschung: Der Lehrer als Lernbegleiter
+### Genehmigung
+
+Viele CoderDojos finden an den Wochenenden statt, in Berlin und Potsdam.
+Eine Teilnahme gilt zumeist als genehmigt [[VV-LKFB §6 (1)][vvlkfb-6]],
+da es am Wochenende ist und keine Reisekosten anfallen.
+Die eigenen Kinder können mitkommen.
+
+### Teilnahmebestätigung
+
+Ihr erhaltet am Ende des Fortbildungsangebots eine Bestätigung mit Thema, Kurzfassung und zeitlichem Rahmen [[VV-LKFB §7][vvlkfb-7]].
+Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, formulieren wir diese nach einem Gespräch zusammen.
+Ein CoderDojo geht ca. 3 Stunden, was der jewailigen Veranstaltung zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch noch mehreren Aufenthalten beim CoderDojo stattfinden.
+
+**TODO**: Das CoderDojo ist entwerder ein Ersatzangebot oder ein Ergänzungsangebot.
+Darüber entscheidet das MBJS nach dem Antrag.
 
 ### Lehrplanbezug
 
@@ -87,27 +101,33 @@ Es gibt Rechner vor Ort, wenn man keine dabei hat und die Ergebnisse können ins
   - (H) Der Entwurf erfogt erfahrungsgemäß beschreibend: "Ich habe das und brauche das."
     Dann erstellen die Teilnehmer ein Programm und beheben Fehler.
 
-**2.6 Kommunizieren und Kooperieren - Teamarbeit organisieren und koordinieren**
+**2.6 Kommunizieren und Kooperieren - Teamarbeit organisieren und koordinieren**  
 - Fachsprache angemessen verwenden
   - (DE) Untereinander und durch die Tutorials werden diese Begriffe eingeführt.
   - (GH) Die Teilnehmer dürfen am Ende präsentieren, was sie getan haben.
 
+**3.2 Informatiksysteme (Themenfeld)**  
+- Verwendung verschiedener Betriebsysteme, ein angepasstes Linux
+- Arduino-Baukästen und Tutorials
+- Eigenes Anschließen und bedienen der Rechner
 
-### Genehmigung
+**3.5 Algorithmisches Problemlösen (Themenfeld)**  
+- Roboter sind vorhanden, digital und auch physikal
+- grafische Programmiersprachen werden mit vielen Tutorials eingesetzt
+- Scratch/Snap erlauben das Erfassen und von Algorithmen über die Problemstellung
 
-Viele CoderDojos finden an den Wochenenden statt, in Berlin und Potsdam.
-Eine Teilnahme gilt zumeist als genehmigt [[VV-LKFB §6 (1)][vvlkfb-6]],
-da es am Wochenende ist und keine Reisekosten anfallen.
-Die eigenen Kinder können mitkommen.
+**3.8 Projektmanagement (Wahlthemenfeld)**  
+- Teilnehmer arbeiten in Teams aber auch allein über einen längeren Zeitraum an einem Projekt.
+- Es gibt [Tutorials zu Git][material], dem Versionsverwaltungssystem
+- Es gibt online-Projekte, die internationalen Schüleraustausch und Teamarbeit ermöglichen.
 
-### Teilnahmebestätigung
+**3.9 Physical Computing (Wahlthemenfeld)**  
+- Es sind Bausätze vorhanden, die ausprobiert und diskutiert werden können.
+- Es kann gelötet werden
+- Es gibt Anleitungen.
 
-Ihr erhaltet am Ende des Fortbildungsangebots eine Bestätigung mit Thema, Kurzfassung und zeitlichem Rahmen [[VV-LKFB §7][vvlkfb-7]].
-Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, formulieren wir diese nach einem Gespräch zusammen.
-Ein CoderDojo geht ca. 3 Stunden, was der jewailigen Veranstaltung zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch noch mehreren Aufenthalten beim CoderDojo stattfinden.
-
-**TODO**: Das CoderDojo ist entwerder ein Ersatzangebot oder ein Ergänzungsangebot.
-Darüber entscheidet das MBJS nach dem Antrag.
+**3.10 Digitale Bilder und Visualisierung (Wahlthemenfeld)**  
+- Die Teilnehmer programmieren Scratch und auch Webseiten.
 
 ---
 
