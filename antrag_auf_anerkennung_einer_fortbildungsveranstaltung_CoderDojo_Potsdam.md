@@ -7,7 +7,7 @@ Die Abgabe erfolgt als .doc-Datei.
    5. Februar 2018
 2. Titel des Fortbildungsangebotes:  
    CoderDojo - Schüler lernen Programmieren
-3. Name und Adresse des Anbieters / der Einrichtung oder Institution: 
+3. Name und Adresse des Anbieters / der Einrichtung oder Institution:  
    CoderDojo Deutschland e.V.  
    Makelstr. 7  
    12163 Berlin  
