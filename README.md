@@ -41,7 +41,7 @@ Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, form
 Ein CoderDojo geht ca. 3 Stunden, was der jewailigen Veranstaltung zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch nach/bei mehreren Aufenthalten beim CoderDojo oder telefonisch stattfinden.
 
 **TODO**: Das CoderDojo ist entweder ein Ersatzangebot oder ein Ergänzungsangebot.
-Darüber entscheidet das MBJS nach dem Antrag.
+Darüber entscheidet das MBJS nach dem [Antrag][antrag].
 
 ### Lehrplanbezug
 
@@ -157,4 +157,4 @@ Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 [material]: http://material.quelltext.eu/
 [guide]: http://opentechschool.github.io/slides/presentations/coaching/de.html
 [pair-programming]: https://www.youtube.com/watch?v=vgkahOzFH2Q
-
+[antrag]: https://github.com/CoderDojoPotsdam/lehre/blob/master/antrag_auf_anerkennung_einer_fortbildungsveranstaltung_CoderDojo_Potsdam.md
