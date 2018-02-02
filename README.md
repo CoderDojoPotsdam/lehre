@@ -40,7 +40,7 @@ Ihr erhaltet am Ende des Fortbildungsangebots eine Bestätigung mit Thema, Kurzf
 Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, formulieren wir diese nach einem Gespräch zusammen.
 Ein CoderDojo geht ca. 3 Stunden, was der jewailigen Veranstaltung zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch nach/bei mehreren Aufenthalten beim CoderDojo oder telefonisch stattfinden.
 
-**TODO**: Das CoderDojo ist entwerder ein Ersatzangebot oder ein Ergänzungsangebot.
+**TODO**: Das CoderDojo ist entweder ein Ersatzangebot oder ein Ergänzungsangebot.
 Darüber entscheidet das MBJS nach dem Antrag.
 
 ### Lehrplanbezug
