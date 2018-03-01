@@ -17,7 +17,7 @@ Als Bachelorstudent kannst Du bei uns ein Praktikum machen.
 Ein Praktikum in pädagogisch-psychologischen Handlungsfeldern (PPH) bei den CoderDojos in Potsdam und Berlin ist bei der Uni-Potsdam anerkannt.
 Jedes Dojo ist anders, hat andere Schwerpunkte und Personen, die kommen.
 Das Praktikum ist als Beobachtungspraktikum gedacht.
-Du kannst zusehen, Ideen mitnehmen und auch mithelfen und ausprobieren, was Du gern selbst anbietet.
+Du kannst zusehen, Ideen mitnehmen und auch mithelfen und ausprobieren, was Du gern selbst anbietest.
 Selbstverantwortung, eigene Motivation und gegenseitiges Helfen sind universell für jedes Fach.
 
 ## Fortbildung für Referendare und Lehrkräfte
