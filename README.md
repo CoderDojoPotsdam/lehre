@@ -8,42 +8,70 @@ Die Gruppe ist divers: Kinder ab 3 können sich hier mit Technik beschäftigen u
 Diese Seite ist für Lehrer und die, die es werden, Studenten und Referendare zur Information, was sie beim 
 CoderDojo vorfinden, lernen und integrieren können.
 
-## Für Lehramtstudenten
+## Praktikum für Lehramtstudenten (Potsdam)
 
 Als Bachelorstudent kannst Du bei uns ein Praktikum machen.
 - [Praktikumsbörse][börse], siehe "Arbeit mit Kindern im Programmierclub"
 - [Plakat][praktikum]
 
-Ein Praktikum in pädagogisch-psychologischen Handlungsfeldern bei den CoderDojos in Potsdam und Berlin ist bei der Uni-Potsdam anerkannt.
+Ein Praktikum in pädagogisch-psychologischen Handlungsfeldern (PPH) bei den CoderDojos in Potsdam und Berlin ist bei der Uni-Potsdam anerkannt.
 Jedes Dojo ist anders, hat andere Schwerpunkte und Personen, die kommen.
 Das Praktikum ist als Beobachtungspraktikum gedacht.
 Du kannst zusehen, Ideen mitnehmen und auch mithelfen und ausprobieren, was Du gern selbst anbietet.
 Selbstverantwortung, eigene Motivation und gegenseitiges Helfen sind universell für jedes Fach.
 
-## Für Referendare und Lehrkräfte
+## Fortbildung für Referendare und Lehrkräfte
 
 Beim CoderDojo lernen die Kinder in diverser Gruppe selbstbestimmt an eigenen Projekten und selbstgewählten Tutorials.
 Sie können sich gegenseitig helfen und wir unterstützen sie.
 Damit das Dojo läuft, braucht es kein technisches Wissen von Erwachsenen.
 Es gibt soziale und organisatorische [Rollen][rollen], die das Dojo angehnehm ablaufen lassen.
 
+### Ablauf der Fortbildung
+
+Die Fortbildung gliedert sich in diese Teile:
+
+- **Orientierungsgespräch mit den [Ansprechpartnern][kontakt] bei Bedarf**  
+  Wenn Du Fragen hast, melde Dich bitte bei uns. Das könnten Fragen sein:
+  - Wo und wann findet die Fortbildung statt?
+  - Welche Schwerpunkte werden in den Veranstaltungen gesetzt?
+  - Wie kann ich Fragestellung X/Y im Unterricht angehen?
+  - Wie erreiche ich eine Binnendifferenzierung durch eigenständige Projektarbeit und Peer-Learning?
+  - Welches Material kann ich für meine Schüler nutzen?
+  
+  Wenn Du eigene Fragestellungen zum CoderDojo mitbringst, dann können wir diese bearbeiten.
+  Bei den Veranstaltungen entstehen mit Sicherheit mehr eigene Ideen.
+- **Besuch der CoderDojos**  
+  CoderDojos finden in Berlin/Potsdam fast jedes Wochenende statt.
+  Es gibt keine Hast. Die Fortbildung richtet sich nach Dir.
+  Sowohl in Berlin, Potsdam aber auch weltweit kannst du an CoderDojos für diese Fortbildung teilnehmen.
+  
+  Durch den Besuch der CoderDojos kannst Du deine Fragestellungen bearbeiten und im
+  kleinen Rahmen mit jungen Teilnehmern ausprobieren und diskutieren.
+  Durch die Praxiserfahrung und den wertschätzenden Umgang werden Hürden schnell abgebaut.
+  Mentoren und Teilnehmer helfen gern bei der Orientierung mit ihrer Erfahrung und ihren Ideen.
+  Maßgebend für die Qualifizierung ist das Gespräch danach.
+- **Auswertungsgespräch**  
+  Hierbei möchten wir herausarbeiten, wie das Material und die Form im Unterricht und einer AG eingesetzt werden kann.
+  Teil der Bestätigung sind auch die eigenen Erfahrungen.
+
 ### Genehmigung
 
 Viele CoderDojos finden an den Wochenenden statt, in Berlin und Potsdam.
 Eine Teilnahme gilt als genehmigt [[VV-LKFB §6 (1)][vvlkfb-6]],
 da die Veranstaltungen am Wochenende sind und keine Reisekosten anfallen.
-Die eigenen Kinder können mitkommen.
+Die eigenen Kinder, Verwandte und Freunde können mitkommen.
 
 ### Teilnahmebestätigung
 
 Ihr erhaltet am Ende des Fortbildungsangebots eine Bestätigung mit Thema, Kurzfassung und zeitlichem Rahmen [[VV-LKFB §7][vvlkfb-7]].
 Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, formulieren wir diese nach einem Gespräch zusammen.
-Ein CoderDojo geht ca. 3 Stunden, was der jewailigen Veranstaltung zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch nach/bei mehreren Aufenthalten beim CoderDojo oder telefonisch stattfinden.
+Ein CoderDojo geht ca. 3 Stunden, was den Veranstaltungen zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch nach/bei mehreren Aufenthalten beim CoderDojo oder telefonisch stattfinden.
 
 **TODO**: Das CoderDojo ist entweder ein Ersatzangebot oder ein Ergänzungsangebot.
 Darüber entscheidet das MBJS nach dem [Antrag][antrag].
 
-### Lehrplanbezug
+## Lehrplanbezug
 
 Kompetenzen, die die Schüler beim CoderDojo erwerben, können wir auch im [Lehrplan][lehrplan] wiederfinden.
 Ziel dieses Abschnitts ist es, einen Überblick über die verschiedenen Materialien zum 
@@ -146,6 +174,12 @@ Im Folgenden gehen wir auf die Kompetenzen ein, die die Schüler im CoderDojo er
 
 Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 
+## Ansprechpartner
+[kontakt]: #ansprechpartner
+
+Ansprechpartner für die Fortbildung ist Nicco Kunzmann.
+Alle nötigen Kontaktdaten befinden sich [auf der Seite von Nicco Kunzmann][nicco]
+
 [source]: https://github.com/CoderDojoPotsdam/lehre/blob/master/README.md
 [edit]: https://github.com/CoderDojoPotsdam/lehre/edit/master/README.md
 [praktikum]: http://www.uni-potsdam.de/fileadmin01/projects/zelb/Dokumente/Bachelor/B%C3%B6rse/Programmieren.pdf
@@ -158,3 +192,4 @@ Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 [guide]: http://opentechschool.github.io/slides/presentations/coaching/de.html
 [pair-programming]: https://www.youtube.com/watch?v=vgkahOzFH2Q
 [antrag]: https://github.com/CoderDojoPotsdam/lehre/blob/master/antrag_auf_anerkennung_einer_fortbildungsveranstaltung_CoderDojo_Potsdam.md
+[nicco]: http://niccokunzmann.github.io/impressum
