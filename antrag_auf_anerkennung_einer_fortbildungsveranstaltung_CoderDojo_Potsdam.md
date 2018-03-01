@@ -44,7 +44,7 @@ Die Abgabe erfolgt als .doc-Datei.
     - Übersicht über mögliche Materialien: http://material.quelltext.eu/potsdam.html
 11. Anmeldehinweise:  
     - Beratung und Gespräch sind telefonisch bei Nicco Kunzmann 0163 315 24 15, Mo-Sa 9:00-20:00 vereinbar.
-    - Anmeldungen zu den Veranstatungen erfolgen über die Seite der Veranstaltungen.
+    - Anmeldungen zu den Veranstatungen erfolgen über die Seite der CoderDojos.
 12. Hinweise zum Teilnehmerbeitrag:  
     Die Teilnahme am CoderDojo ist entgeldlos. Die Auswertung auch. Engagement und Spenden sind willkommen.
 13. Programmübersicht und/oder Flyer (Bitte separat im Email-Anhang als pdf-Datei mitsenden)  
