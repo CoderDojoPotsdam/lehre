@@ -6,7 +6,7 @@ Die Abgabe erfolgt als .doc-Datei.
 1. Datum der Antragstellung:  
    1. März 2018
 2. Titel des Fortbildungsangebotes:  
-   CoderDojo - Schüler lernen Programmieren
+   Offene Programmierklubs - CoderDojo
 3. Name und Adresse des Anbieters / der Einrichtung oder Institution:  
    CoderDojo Deutschland e.V.  
    Makelstr. 7  
@@ -23,7 +23,7 @@ Die Abgabe erfolgt als .doc-Datei.
    min. 30 Minuten Auswertungsgespräch (auch digital/telefonisch)
    min. 3 Stunden Veranstaltung, nach Bedarf auch 6, 9 und mehr
 7. Ort der Veranstaltung (genaue Adresse): (bei Online-Kursen bitte den direkten Link zum Angebot angeben)  
-   Für das Dojo in Griebnitzsee:
+   Für das Dojo in Potsdam Griebnitzsee:
    ```
    Hasso-Plattner-Institut für Digital Engineering gGmbH
    Prof.-Dr.-Helmert-Str. 2-3
@@ -36,6 +36,7 @@ Die Abgabe erfolgt als .doc-Datei.
    Ziel ist es, Materialien für den Unterricht zu zeigen,
    diese auszuprobieren und von Teilnehmern direkt Feedback zu bekommen,
    wie sie diese gern einsetzen.
+   Im Abschlussgesrpäch geht es um die Anwendung im Unterricht.
 10. Webseite zur Veranstaltung bzw. zum Anbieter:  
     - Mehr Informationen zur Fortbildung: http://coderdojopotsdam.github.io/lehre
     - Informationen über alle Dojos: http://zen.coderdojo.com/
