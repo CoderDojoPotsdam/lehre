@@ -51,7 +51,7 @@ Die Fortbildung gliedert sich in diese Teile:
   Durch die Praxiserfahrung und den wertschätzenden Umgang werden Hürden schnell abgebaut.
   Mentoren und Teilnehmer helfen gern bei der Orientierung mit ihrer Erfahrung und ihren Ideen.
   Maßgebend für die Qualifizierung ist das Gespräch danach.
-- **Auswertungsgespräch**  
+- **Auswertungsgespräch mit den [Ansprechpartnern][kontakt]**  
   Hierbei möchten wir herausarbeiten, wie das Material und die Form im Unterricht und einer AG eingesetzt werden kann.
   Teil der Bestätigung sind auch die eigenen Erfahrungen.
 
@@ -170,15 +170,21 @@ Im Folgenden gehen wir auf die Kompetenzen ein, die die Schüler im CoderDojo er
 **3.10 Digitale Bilder und Visualisierung (Wahlthemenfeld)**  
 - Die Teilnehmer programmieren Scratch und auch Webseiten.
 
----
-
-Du kannst diese Seite [einsehen][source] und [verbessern][edit].
-
 ## Ansprechpartner
 [kontakt]: #ansprechpartner
 
 Ansprechpartner für die Fortbildung ist Nicco Kunzmann.
-Alle nötigen Kontaktdaten befinden sich [auf der Seite von Nicco Kunzmann][nicco]
+Alle nötigen Kontaktdaten befinden sich [auf der Seite von Nicco Kunzmann][nicco].
+
+
+
+
+
+
+
+---
+
+Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 
 [source]: https://github.com/CoderDojoPotsdam/lehre/blob/master/README.md
 [edit]: https://github.com/CoderDojoPotsdam/lehre/edit/master/README.md
