@@ -68,7 +68,7 @@ Ihr erhaltet am Ende des Fortbildungsangebots eine Bestätigung mit Thema, Kurzf
 Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, formulieren wir diese nach einem Gespräch zusammen.
 Ein CoderDojo geht ca. 3 Stunden, was den Veranstaltungen zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch nach/bei mehreren Aufenthalten beim CoderDojo oder telefonisch stattfinden.
 
-## Anerkennung der Fortbildung
+### Anerkennung der Fortbildung
 
 Die Fortbildung ist in Berlin über die [Seite für Regionale Fortbildung der Senatsverwaltung für Bildung, Jugend und Familie][anerkennung-berlin] als externes Angebot gelistet und zu finden mit dem Stichwort "CoderDojo".
 
