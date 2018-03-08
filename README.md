@@ -55,10 +55,10 @@ Die Fortbildung gliedert sich in diese Teile:
   Hierbei möchten wir herausarbeiten, wie das Material und die Form im Unterricht und einer AG eingesetzt werden kann.
   Teil der Bestätigung sind auch die eigenen Erfahrungen.
 
-### Genehmigung
+### Genehmigung der Teilnahme
 
-Viele CoderDojos finden an den Wochenenden statt, in Berlin und Potsdam.
-Eine Teilnahme gilt als genehmigt [[VV-LKFB §6 (1)][vvlkfb-6]],
+Viele CoderDojos finden an den Wochenenden in Berlin und Potsdam statt.
+Eine Teilnahme gilt für Brandenburger Lehrkräfte als genehmigt [[VV-LKFB §6 (1)][vvlkfb-6]],
 da die Veranstaltungen am Wochenende sind und keine Reisekosten anfallen.
 Die eigenen Kinder, Verwandte und Freunde können mitkommen.
 
@@ -68,7 +68,11 @@ Ihr erhaltet am Ende des Fortbildungsangebots eine Bestätigung mit Thema, Kurzf
 Da die CoderDojos sehr verschieden sind und ihr unterschiedliches mitnehmt, formulieren wir diese nach einem Gespräch zusammen.
 Ein CoderDojo geht ca. 3 Stunden, was den Veranstaltungen zu entnehmen ist, das Gespräch dauert ca. 30 Minuten und kann auch nach/bei mehreren Aufenthalten beim CoderDojo oder telefonisch stattfinden.
 
-**TODO**: Das CoderDojo ist entweder ein Ersatzangebot oder ein Ergänzungsangebot.
+## Anerkennung der Fortbildung
+
+Die Fortbildung ist in Berlin über die [Seite für Regionale Fortbildung der Senatsverwaltung für Bildung, Jugend und Familie][anerkennung-berlin] als externes Angebot gelistet und zu finden mit dem Stichwort "CoderDojo".
+
+**TODO**: Das CoderDojo ist in Brandenburg entweder ein Ersatzangebot oder ein Ergänzungsangebot anerkennt.
 Darüber entscheidet das MBJS nach dem [Antrag][antrag].
 
 ## Lehrplanbezug
@@ -199,3 +203,4 @@ Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 [pair-programming]: https://www.youtube.com/watch?v=vgkahOzFH2Q
 [antrag]: https://github.com/CoderDojoPotsdam/lehre/blob/master/antrag_auf_anerkennung_einer_fortbildungsveranstaltung_CoderDojo_Potsdam.md
 [nicco]: http://niccokunzmann.github.io/impressum
+[anerkennung-berlin]: https://fortbildung-regional.de/suchen/externe_veranstaltungen.php?pageID=h
