@@ -70,10 +70,12 @@ Ein CoderDojo geht ca. 3 Stunden, was den Veranstaltungen zu entnehmen ist, das 
 
 ### Anerkennung der Fortbildung
 
-Die Fortbildung ist in Berlin über die [Seite für Regionale Fortbildung der Senatsverwaltung für Bildung, Jugend und Familie][anerkennung-berlin] als externes Angebot gelistet und zu finden mit dem Stichwort "CoderDojo".
+Die Fortbildung ist in Berlin im Jahr 2018 über die [Seite für Regionale Fortbildung der Senatsverwaltung für Bildung, Jugend und Familie][anerkennung-berlin]
+als externes Angebot gelistet und zu finden mit dem Stichwort "CoderDojo".
 
-**TODO**: Das CoderDojo ist in Brandenburg entweder ein Ersatzangebot oder ein Ergänzungsangebot anerkennt.
-Darüber entscheidet das MBJS nach dem [Antrag][antrag].
+Diese Fortbildung ist in Brandenburg im Jahr 2018 als ein Ergänzungsangebot anerkannt.
+Es kann jeden Monat über die [die Seite des Bildeungsservers-Berlin-Brandenburg][anerkennung-brandenburg]
+unter der Nummer `180301-35.11-46512-180309.2` gefunden werden.
 
 ## Lehrplanbezug
 
@@ -201,6 +203,6 @@ Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 [material]: http://material.quelltext.eu/
 [guide]: http://opentechschool.github.io/slides/presentations/coaching/de.html
 [pair-programming]: https://www.youtube.com/watch?v=vgkahOzFH2Q
-[antrag]: https://github.com/CoderDojoPotsdam/lehre/blob/master/antrag_auf_anerkennung_einer_fortbildungsveranstaltung_CoderDojo_Potsdam.md
 [nicco]: http://niccokunzmann.github.io/impressum
 [anerkennung-berlin]: https://fortbildung-regional.de/suchen/externe_veranstaltungen.php?pageID=h
+[anerkennung-brandenburg]: https://tisonline.brandenburg.de/web/guest/ergaenzungsangebote
