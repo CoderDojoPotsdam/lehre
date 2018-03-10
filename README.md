@@ -42,9 +42,9 @@ Die Fortbildung gliedert sich in diese Teile:
   Wenn Du eigene Fragestellungen zum CoderDojo mitbringst, dann können wir diese bearbeiten.
   Bei den Veranstaltungen entstehen mit Sicherheit mehr eigene Ideen.
 - **Besuch der CoderDojos**  
-  CoderDojos finden in Berlin/Potsdam fast jedes Wochenende statt.
-  Es gibt keine Hast. Die Fortbildung richtet sich nach Dir.
-  Sowohl in Berlin, Potsdam aber auch weltweit kannst du an CoderDojos für diese Fortbildung teilnehmen.
+  CoderDojos finden in [Berlin][dojos-berlin] und [Potsdam][dojos-potsdam] fast jedes Wochenende statt.
+  Die Fortbildung richtet sich nach Dir.
+  Sowohl in [Berlin][dojos-berlin], [Potsdam][dojos-potsdam] aber auch [weltweit][zen] kannst du an CoderDojos für diese Fortbildung teilnehmen.
   
   Durch den Besuch der CoderDojos kannst Du deine Fragestellungen bearbeiten und im
   kleinen Rahmen mit jungen Teilnehmern ausprobieren und diskutieren.
@@ -212,3 +212,6 @@ Du kannst diese Seite [einsehen][source] und [verbessern][edit].
 [nicco]: http://niccokunzmann.github.io/impressum
 [anerkennung-berlin]: https://fortbildung-regional.de/suchen/externe_veranstaltungen.php?pageID=h
 [anerkennung-brandenburg]: https://tisonline.brandenburg.de/web/guest/ergaenzungsangebote
+[dojos-potsdam]: http://coderdojopotsdam.github.io/
+[dojos-berlin]: https://zen.coderdojo.com/?q=berlin&p=2
+[zen]: https://zen.coderdojo.com/
