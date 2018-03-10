@@ -182,7 +182,13 @@ Im Folgenden gehen wir auf die Kompetenzen ein, die die Schüler im CoderDojo er
 Ansprechpartner für die Fortbildung ist Nicco Kunzmann.
 Alle nötigen Kontaktdaten befinden sich [auf der Seite von Nicco Kunzmann][nicco].
 
+## Für CoderDojo-Organisatoren
 
+Für die CoderDojo-Organisatoren ändert sich nichts in der Organisation.
+Es kann passieren, dass im Dojo also Pädagogen auftauchen, die diese Fortbildung machen.
+Diese können als Mentoren mithelfen und viele Fragen stellen.
+Um die Fortbildung kümmern sich die [Ansprechpartner][kontakt].
+Das Dojo kann wie gewohnt ablaufen.
 
 
 
