@@ -7,6 +7,7 @@ Die Gruppe ist divers: Kinder ab 3 können sich hier mit Technik beschäftigen u
 
 Diese Seite ist für Lehrer und die, die es werden, Studenten und Referendare zur Information, was sie beim 
 CoderDojo vorfinden, lernen und integrieren können.
+Lehrer bzw. alle Personen können zum CoderDojo kommen und sind nicht an die Angebote unten gebunden.
 
 ## Praktikum für Lehramtstudenten (Uni-Potsdam)
 
