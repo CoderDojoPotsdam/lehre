@@ -71,10 +71,10 @@ Ein CoderDojo geht ca. 3 Stunden, was den Veranstaltungen zu entnehmen ist, das 
 
 ### Anerkennung der Fortbildung
 
-Die Fortbildung ist in Berlin im Jahr 2018 über die [Seite für Regionale Fortbildung der Senatsverwaltung für Bildung, Jugend und Familie][anerkennung-berlin]
+Die Fortbildung ist in **Berlin** im Jahr 2018 über die [Seite für Regionale Fortbildung der Senatsverwaltung für Bildung, Jugend und Familie][anerkennung-berlin]
 als externes Angebot gelistet und zu finden mit dem Stichwort "CoderDojo".
 
-Diese Fortbildung ist in Brandenburg im Jahr 2018 als ein Ergänzungsangebot anerkannt.
+Diese Fortbildung ist in **Brandenburg** im Jahr 2018 als ein Ergänzungsangebot anerkannt.
 Es kann jeden Monat über die [die Seite des Bildeungsservers-Berlin-Brandenburg][anerkennung-brandenburg]
 unter der Nummer `180301-35.11-46512-180309.2` gefunden werden.
 
