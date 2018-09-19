@@ -9,6 +9,13 @@ Diese Seite ist für Lehrer und die, die es werden, Studenten und Referendare zu
 CoderDojo vorfinden, lernen und integrieren können.
 Lehrer bzw. alle Personen können zum CoderDojo kommen und sind nicht an die Angebote unten gebunden.
 
+## FAQ
+
+**Wann findet das statt?**  
+Immer, wenn es euch passt.
+Die besuchbaren CoderDojos sind regelmäßig in Berlin, Brandenburg, Deutschland und weltweit.
+Ihr könnt eure und andere Kinder und Freunde mitbringen.
+
 ## Praktikum für Lehramtstudenten (Uni-Potsdam)
 
 Als Bachelorstudent kannst Du bei uns ein Praktikum machen.
